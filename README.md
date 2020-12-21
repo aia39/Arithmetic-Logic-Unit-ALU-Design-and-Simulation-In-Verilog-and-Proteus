@@ -7,4 +7,11 @@ This is a repository for our EEE 304 course project. The name of the course is D
 * You can use 'ALU3.vwf' for wave for generation.
 
 # Getting Started (Proteus)
-* Open 
+* Open 'ALU_final.pdsprj' then you can run the simulation. Here you will see the hardware implementation of 13 operations using elementary digital electronics.
+
+
+# Requirements
+* Proteus 8.6
+* Quartus II 9.0
+
+# For video demonstration you can go through the whole [video](https://www.youtube.com/watch?v=gXXmI5yG9Uc&t=895s) and implement yours. 
